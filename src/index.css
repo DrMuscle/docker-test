@@ -1,0 +1,42 @@
+.Title,.About,.Work,.Product,.SNS{
+    height: 750px;
+}
+
+.menu{
+    position: fixed;
+    top: 25px;
+    right: 30px;
+}
+
+.menu li{
+    list-style: none;
+    float: left;
+    width: 80px;
+}
+
+.Title{
+    background-image: url("top.png");
+    background-size: cover;
+}
+
+.About{
+    background-color: seagreen;
+}
+
+.Work{
+    background-color: green;
+}
+
+.Product{
+    background-color: mediumseagreen;
+}
+
+.SNS{
+    background-color: teal;
+}
+
+.title{
+    position: fixed;
+    bottom: 16px;
+    right: 16px;
+}
